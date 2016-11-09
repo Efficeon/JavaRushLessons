@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component LANGUAGE_LEVEL="JDK_1_7" jdk="1.7" jdk_type="JavaSDK">
+	<output-test url="file://$MODULE_DIR$/out/test/JavaRushHomeWork"/>
+	<contentEntry url="file://$MODULE_DIR$">
+		<excludeFolder url="file://$MODULE_DIR$/.idea"/>
+		<excludeFolder url="file://$MODULE_DIR$/out/test/JavaRushHomeWork/com/javarush/test/level05"/>
+		<excludeFolder url="file://$MODULE_DIR$/src/com/javarush/test/level03"/>
+		<excludeFolder url="file://$MODULE_DIR$/src/com/javarush/test/level04"/>
+		<excludeFolder url="file://$MODULE_DIR$/src/com/javarush/test/level05/lesson05"/>
+		<excludeFolder url="file://$MODULE_DIR$/src/com/javarush/test/level05/lesson07"/>
+		<excludeFolder url="file://$MODULE_DIR$/src/com/javarush/test/level05/lesson09"/>
+		<excludeFolder url="file://$MODULE_DIR$/src/com/javarush/test/level05/lesson12/home01"/>
+		<excludeFolder url="file://$MODULE_DIR$/src/com/javarush/test/level05/lesson12/home02"/>
+		<excludeFolder url="file://$MODULE_DIR$/src/com/javarush/test/level05/lesson12/home03"/>
+		<excludeFolder url="file://$MODULE_DIR$/src/com/javarush/test/level05/lesson12/home04"/>
+		<excludeFolder url="file://$MODULE_DIR$/src/com/javarush/test/level06/lesson08/task03"/>
+		<excludeFolder url="file://$MODULE_DIR$/src/com/javarush/test/level06/lesson08/task04"/>
+		<excludeFolder url="file://$MODULE_DIR$/src/com/javarush/test/level06/lesson08/task05"/>
+		<excludeFolder url="file://$MODULE_DIR$/src/com/javarush/test/level08/lesson08/task04"/>
+		<excludeFolder url="file://$MODULE_DIR$/src/com/javarush/test/level09/lesson11/home04"/>
+		<excludeFolder url="file://$MODULE_DIR$/src/com/javarush/test/level09/lesson11/home05"/>
+		<excludeFolder url="file://$MODULE_DIR$/src/com/javarush/test/level15/lesson12/home05"/>
+		<excludeFolder url="file://$MODULE_DIR$/src/com/javarush/test/level15/lesson12/home06"/>
+		<excludeFolder url="file://$MODULE_DIR$/src/com/javarush/test/level28/lesson10"/>
+	</contentEntry>
+	<levels>
+		<level name="jsoup-1.9.2-sources" value="project"/>
+		<level name="idea-IU-162.2228" value="project"/>
+		<level name="jsoup-1.9.2-sources1" value="project"/>
+		<level name="jackson-core-2.6.1" value="project"/>
+	</levels>
+</component>

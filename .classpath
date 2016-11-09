@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="out"/>
+	<classpathentry exported="true" kind="var" path="USER_HOME/java/JavaRushHomeWork/jackson-annotations-2.6.1.jar"/>
+	<classpathentry exported="true" kind="var" path="USER_HOME/java/JavaRushHomeWork/jackson-core-2.6.1.jar"/>
+	<classpathentry exported="true" kind="var" path="USER_HOME/java/JavaRushHomeWork/jackson-databind-2.6.1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/jsoup-1.9.2-sources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/idea-IU-162.2228"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/jsoup-1.9.2-sources1"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/jackson-core-2.6.1"/>
+	<classpathentry kind="output" path="out/production/JavaRushHomeWork"/>
+</classpath>
